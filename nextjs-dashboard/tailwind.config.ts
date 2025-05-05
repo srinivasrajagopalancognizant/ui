@@ -17,6 +17,12 @@ const config: Config = {
           500: '#0070F3',
           600: '#2F6FEB',
         },
+        coral: '#FF7F50',
+        aquamarine: '#7FFFD4',
+        cornflowerblue: '#6495ED',
+        hotpink: '#FF69B4',
+        darkseagreen: '#8FBC8B',
+        
       },
     },
     keyframes: {
